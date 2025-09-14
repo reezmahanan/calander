@@ -1,10 +1,13 @@
 # Simple Calendar Widget
 
+![Calendar Widget Screenshot](screenshot.png)
+
 ## 📋 Overview
 
 The **Simple Calendar Widget** is a sleek, modern monthly calendar view designed for easy embedding in any website. Built purely with HTML and CSS—**no JavaScript required**—this lightweight component offers a visually appealing way to display date information.
 
 ---
+
 
 ## ✨ Features
 
