@@ -1,6 +1,6 @@
 # Simple Calendar Widget
 
-![Calendar Widget Screenshot](screenshot.png)
+![Calendar Widget Screenshot](https://github.com/reezmahanan/calander/blob/main/Screenshot%202025-09-14%20112604.png)
 
 ## 📋 Overview
 
