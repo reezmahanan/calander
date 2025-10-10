@@ -6,7 +6,7 @@ A modern, animated, and responsive calendar widget built with beautiful gradient
 
 ## 🚀 Live Demo
 
-Try it right now: [Interactive Calendar Demo](https://reezmahanan.github.io/calander/interactive-calendar.html)
+Try it right now: [Interactive Calendar Demo]( https://reezmahanan.github.io/Interactive-Calendar/)
 
 ---
 
